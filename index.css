@@ -142,6 +142,7 @@ hr {
 	padding: 5rem;
 	transition: 1s ease-in-out;
 	margin-right: 0.25rem;
+	display: inline-block;
 }
 
 .arrow_back:hover {
@@ -159,4 +160,8 @@ hr {
 
 .separator {
 	padding: 1.5rem;
+}
+
+.container {
+	white-space: nowrap;
 }
